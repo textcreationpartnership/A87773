@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kingdomes grand quere. What warrant there is for such proceeds about the King. Resolved by a Presbyterian minister. Also a quere taken from the representation of the judgement of the ministers in the Province of London delivered to the Generall, Ja. 18. 1648. With resolutions to them both for better satisfaction of tender consciences, that scruple the late proceeds of the Parl. and of the Army with the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87773</idno>
+            <idno type="STC">Wing K585</idno>
+            <idno type="STC">Thomason E545_21</idno>
+            <idno type="STC">ESTC R206046</idno>
+            <idno type="EEBO-CITATION">99865238</idno>
+            <idno type="PROQUEST">99865238</idno>
+            <idno type="VID">117476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117476)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E545[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kingdomes grand quere. What warrant there is for such proceeds about the King. Resolved by a Presbyterian minister. Also a quere taken from the representation of the judgement of the ministers in the Province of London delivered to the Generall, Ja. 18. 1648. With resolutions to them both for better satisfaction of tender consciences, that scruple the late proceeds of the Parl. and of the Army with the King.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for H. Cripps, in Popes-head Allie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e.1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117476:1" rendition="simple:additions"/>
+            <p>THE KINGDOMES GRAND QVERE.</p>
+            <p>What warrant there is for ſuch Proceedes about the KING.</p>
+            <p>Reſolved by a Presbyterian <hi>MINISTER.</hi>
+            </p>
+            <p>ALSO A Quere taken from the REPRE<g ref="char:EOLhyphen"/>SENTATION <hi>of the judgement of the Mi<g ref="char:EOLhyphen"/>niſters in the Province of LONDON.</hi> De<g ref="char:EOLhyphen"/>livered to the Generall, <hi>Jan.</hi> 18. 1648.</p>
+            <p>WITH Reſolutions to them both for better ſatisfaction of <hi>tender Conſciences,</hi> that ſcruple the late Pro<g ref="char:EOLhyphen"/>ceeds of the Parl. and of the Army with the KING.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Numb. 35.1.30, 31.</hi>
+                  </bibl> And the Lord ſaid, who ſo killeth any, the murtherer ſhall be put to death. Yee ſhall take no ſatisfaction, but he ſhall ſurely be put to death: So yee ſhall not pollute the land, for blood defiles the land. And there can be no expiation for the blood-ſhed, but by the blood of him that ſhed it.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>1 Kings 2.31.</hi>
+                  </bibl>
+Fall upon him, that thou maiſt take away the inno<g ref="char:EOLhyphen"/>cent blood that be ſhed, from us, and from the Land.</p>
+            </q>
+            <p>LONDON, Printed by <hi>M.S.</hi> for <hi>H. Cripps,</hi> in Popes-head Allie, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117476:2"/>
+            <pb n="1" facs="tcp:117476:2"/>
+            <head>The Kingdomes Grand Quere about proceeds with their KING.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU were pleaſed to aske mee <hi>if Malign<g ref="char:EOLhyphen"/>ants had feed me,</hi> when I pleaded ſo for the King. Take it as you pleaſe, I'le make bold to aske you, <hi>hath not your Benefice ſee'd you,</hi> that formerly you were for the King, and ſuffered under it, and could <hi>plead</hi> as all other Miniſters did.</p>
+            <p n="1">1. <hi>That we muſt obey the King as Su<g ref="char:EOLhyphen"/>preame, actively or paſſively.</hi>
+            </p>
+            <p n="2">2. <hi>That he that reſiſts powers reſiſts the Ordinance of God; For the powers that are, are of God.</hi>
+            </p>
+            <p n="3">3. <hi>That the beſt weapons of Chriſtians are Prayers and Teares, and that</hi> they are called to ſuffer, not to rebell.</p>
+            <p>But now when you ſee the <hi>King</hi> as low, as <hi>David</hi> was, when his Souldiers were ready to ſtone him: and that the Parlia<g ref="char:EOLhyphen"/>ment hath greater power, now you are for the <hi>Parliament,</hi> yea and for the <hi>Army</hi> too, that now have their turne to do what they liſt. <hi>O Tempora! O mores! Tempora mutantur, et nos mu<g ref="char:EOLunhyphen"/>tamur in illis.</hi> This may as truly be ſaid of our Engliſh Clergy, as ever of any; <hi>There were never greater Turn-coats then Blacke coates.</hi> In King <hi>Henry</hi> the eight's time, they were all generall <hi>firſt</hi> for the <hi>Popes</hi> ſupremacy, then for the <hi>Kings.</hi> 2. With
+<pb n="2" facs="tcp:117476:3"/>
+King <hi>Edward</hi> the ſixth, they changed their Religion, and were Proteſtants. 3. With Queen <hi>Mary,</hi> they were Papiſts again. And 4. with Queen <hi>Elizabeth,</hi> they <hi>turn Cat in pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and of above</hi> 9400. <hi>Eccleſiaſticall promotions, not one hundred of the Parſons ſtood firm,</hi> all the reſt turned their Religion, before they would be turned out of their Livings, as <hi>Cambden</hi> ſhewes, in the year 1559. the 2. of Queen <hi>Elizabeth.</hi>
+            </p>
+            <p>And now you, that were for <hi>Epiſcopacy,</hi> are all generally for <hi>Presbytery,</hi> on the like ground: I wis, you ſay <hi>your conſcience now is better informed:</hi> but let me put ſome <hi>Queries</hi> to you.</p>
+            <p n="1">1. What conſcience have you to plead for the Rights of the Parliament, and of the Subjects, and yet to deny or cut off the Rights of the King and his Succeſſors?</p>
+            <p n="2">2. If the <hi>King</hi> be guilty of blood, as you ſay, ſo was <hi>David,</hi> ſo was <hi>Manaſſes</hi> of very much blood: But what authority hath man to depoſe the Lords Annointed now, more then they had to depoſe <hi>David,</hi> or <hi>Manaſſes?</hi> will not God judg Kings?</p>
+            <p n="3">3. And if you wrong the <hi>Lords Anointed,</hi> will you not bring <hi>Gods curſe</hi> upon you, and <hi>upon the Kingdome?</hi>
+            </p>
+            <p n="4">4. Are not <hi>other Nations</hi> like to come againſt us to ruine us and our Poſterity?</p>
+            <p n="5">5. Will you depoſe our King, before you have ſet up ano<g ref="char:EOLhyphen"/>ther King, or agreed about one, to ſet all the Land together by the eares, and the longeſt ſword take all?</p>
+            <p n="6">6. And laſtly, ſhall not all our cries and miſeries that you bring upon us pierce the Heavens? and will not God hear, and curſe you and your Poſterity for it?</p>
+            <p>I have done: you muſt beare with <hi>expresſions</hi> from a heart <hi>full of bitterneſſe:</hi> And <hi>diſdaine not</hi> to ſhew mee, if you have ought to anſwer: Which <hi>if you doe not,</hi> I ſhall have cauſe to <hi>judge, it is becauſe you cannot,</hi> and that you are condemned of your owne conſcience.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 25. 1648.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours to ſerve you if you were for God and the King,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="response">
+            <pb n="3" facs="tcp:117476:3"/>
+            <head>Anſwer to the former letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough my time be ſhort and precious, through urgent oc<g ref="char:EOLhyphen"/>caſions, yet I muſt not omit to returne you <hi>an Anſwer,</hi> though but in briefe, that have ſpoke your heart and the heart of many; and that would count my ſilence <hi>diſdaine, diſability,</hi> or <hi>ſelfe-condemnation.</hi>
+            </p>
+            <p>
+               <hi>And firſt to the firſt, That Kings ſhould be obeyed actively or pas<g ref="char:EOLhyphen"/>ſively.</hi> I ſtill do grant it generally in an ordinary way: &amp; I muſt adde that the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Melek, King,</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to rule; is <hi>Hee,</hi> or They <hi>that rule in a Kingdome as Chiefe:</hi> as the Greeke <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Baſileus</hi> (as it were <hi>the Baſis</hi> or foundation <hi>of the peo<g ref="char:EOLhyphen"/>ples</hi> right or welfare) of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>to reigne.</hi> I ſay this title <hi>King</hi> is given in the Scriptures to all, and to any that <hi>reigned;</hi> whe<g ref="char:EOLhyphen"/>ther it be one <hi>King,</hi> or one <hi>Judge,</hi> as <hi>Moſes</hi> is called King, <hi>Deut.</hi> 33.5. and the Judges are ſo called, each of them, <hi>Judg.</hi> 17.6. Or ſecondly, if two had the chiefe rule, as two <hi>Con<g ref="char:EOLhyphen"/>ſuls</hi> in <hi>Rome;</hi> or three <hi>Tribuni Plebis;</hi> or <hi>Tenne,</hi> called <hi>Decemvi<g ref="char:EOLhyphen"/>ri;</hi> or if one called <hi>Dictator</hi> or one called <hi>Caeſar,</hi> or Emperor; or if one called <hi>Papa,</hi> in a generall <hi>Church</hi>-power, and then with ſuch a <hi>Civill</hi> power. All theſe, I ſay, in Scripture are cal<g ref="char:EOLhyphen"/>led <hi>Kings:</hi> See Notes on <hi>Revel.</hi> 17.8. So all thoſe in <hi>Rome</hi> that ſucceeded Kings, are there called Kings. And the <hi>Tenne Hornes</hi> which are called <hi>Tenne Kings;</hi> The <hi>States of Holland</hi> are reckoned one, and the <hi>States of Scotland</hi> another; (not exclu<g ref="char:EOLhyphen"/>ding the late time of 1638. 39. when they caſt off Biſhops and Ceremonies) <hi>Revel.</hi> 17. What Ruler or Rulers God and the People ſet up to be Chiefe over them, during that time; theſe are to be obeyed in ſuch manner as is aforeſaid, 2 <hi>Sam.</hi> 16.18. Whether it be King, (as in Rome, <hi>Tarquine</hi> was King till they depoſed him, and baniſhed him for his villany to <hi>Lucretia</hi>) or <hi>two Conſuls,</hi> which <hi>Rome</hi> put in ſtead of the King, or <hi>Caeſar,</hi> who got the Rule by the Army, &amp;c. This not hindering, but
+<pb n="4" facs="tcp:117476:4"/>
+that all people, except the Jews (as in the anſwer to the ſecond Quere) might alter their own Government, ſo often as they had cauſe and power in their hands.</p>
+            <p>
+               <hi>To your</hi> ſecond, <hi>He that reſiſts authority or power, ſinnes.</hi> It's true, be it higher, or a petty Conſtable: but I may reſiſt his <hi>force,</hi> if forcibly he would rob me, or raviſh or wrong me; 'tis no ſinne, if I can, to right my ſelfe.</p>
+            <p>
+               <hi>To your</hi> third, Though Chriſtians are to ſuffer <hi>as Chriſtians,</hi> as the Apoſtle <hi>Paul</hi> did; yet <hi>as freeborne,</hi> they may and ſhould, as cauſe is, ſtand upon that freedome, as the Apoſtle did, <hi>Act.</hi> 16. <hi>ult.</hi>
+            </p>
+            <p>
+               <hi>And to your</hi> fourth, It's to be lamented, that the moſt Mi<g ref="char:EOLhyphen"/>niſters have ſtill changed with the times; but you know, ma<g ref="char:EOLhyphen"/>ny goe the broad way, <hi>(witneſſe the firſt Century of ſcandalous Miniſters, juſtly caſt out by this Parliament)</hi> and few the narrow way to life: and that, as <hi>Rome and Babel was not built in a day,</hi> ſo what's of <hi>Babel</hi> is known by degrees more and more, and ſo we are to change for the better ſtill. If any change to <hi>Preſ<g ref="char:EOLhyphen"/>bytery</hi> not out of conſcience, but for by-ends, ſuch God will judge. I confeſſe I have formerly eyed preferment here: but now through Gods mercy I doe more eye better and enduring preferment. And now to your <hi>Queries.</hi>
+            </p>
+            <p>
+               <hi>To your</hi> firſt, It's granted, that <hi>Rights that are Divine, or Naturall, no man ought to deny or cut off:</hi> but <hi>poſitive rights</hi> may and ſometimes ought to be cut off: As <hi>Popes power</hi> in England, <hi>Abbots, Abbaſſes, Priors,</hi> &amp;c. When ſuch are found <hi>inconveni<g ref="char:EOLhyphen"/>ent</hi> or hurtfull; that power which gave them, and put them up, whether Sword or Choiſe, the ſame power may, and ſhould put them down againe.</p>
+            <p>
+               <hi>To your</hi> ſecond, <hi>David</hi> and <hi>Manaſſes</hi> were not Kings onely by <hi>poſitive,</hi> but by <hi>divine</hi> expreſſe lawes. Firſt, <hi>David,</hi> 1 Sam. 16.11. Then <hi>David's</hi> Succeſſors, whereof <hi>Manaſſes</hi> was one for ever, 1 <hi>Chron.</hi> 17.11, 12.14. 2 <hi>Sam.</hi> 17.16. <hi>Pſalm</hi> 18.50. 2 <hi>Kings</hi> 8.19. 2 <hi>Chron.</hi> 21.7. &amp;c. So in the <hi>Sanhedrin</hi> were ſome of <hi>David's</hi> houſe, till Chriſt came, who is King for ever, <hi>Gen.</hi> 49.10. with <hi>Luke</hi> 1.32, 33.27.63. with <hi>Numb.</hi> 36.8, 9. For otherwiſe the expreſſe repentance of <hi>David</hi> and <hi>Manaſſes,</hi> could not ſatisfie the expreſſe law (without reſpect of perſons.)
+<pb n="5" facs="tcp:117476:4"/>
+That <hi>the murtherer muſt ſurely dye, and no ſatisfaction muſt be ta<g ref="char:EOLhyphen"/>ken.—For blood pollutes the Land, and defiles it, and there can be no expiation for the Land for blood, but by the blood of him that's guilty,</hi> Numb. 35.31, 32, 33, 34. Gen. 9.6. Rev. 13.10. Deut. 16.19. Now in our Land, either is the <hi>Parliament</hi> chiefly guil<g ref="char:EOLhyphen"/>ty of the blood of many thouſands, who ſent to attach the <hi>Kings Councellors,</hi> and then the King raiſed an Army neer <hi>York:</hi> or elſe is the <hi>King thereby chiefly guilty.</hi> The chiefly guilty of blood ought to dye by the law of God, and of nature, though ſometimes the guilty, are too hard for others to puniſh, and eſcape for a time, as <hi>Joab</hi> did: Yet when ſuch are ſubdued, they muſt dye: as in 2 <hi>Sam.</hi> 3.29, 30. 1 <hi>Kings</hi> 2.5, 6.29.32.</p>
+            <p>
+               <hi>To your</hi> third Quere: <hi>If you wrong the Lords Annointed, will not God curſe, &amp;c<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>Anſw. No Kings are by Scripture warrant called the Lords Anointed, but onely ſuch as were Kings by Gods expreſſe rule, or expreſly before named and appointed by him; not a<g ref="char:EOLhyphen"/>ny other Kings that were by poſitive law only.</p>
+            <p>Secondly, It's no <hi>wrong</hi> to doe juſtice impartially: but it is <hi>for a blesſing</hi> to a Kingdome, and <hi>a curſe to neglect it,</hi> 1 Kings 2.32, 33. <hi>Num.</hi> 35.33, 34. <hi>Ier.</hi> 5.1.5, 6.</p>
+            <p>
+               <hi>To the</hi> fourth; <hi>Other Nations will come and ruine us.</hi> If God give quietneſſe, who then can trouble, <hi>Iob</hi> 34.29. when judge<g ref="char:EOLhyphen"/>ment was done on <hi>Iſraels</hi> enemies, then God gave them reſt round about, 2 <hi>Chron</hi> 20.29, 30.</p>
+            <p>
+               <hi>To the</hi> fifth; <hi>Will you depoſe our King, before you have another King?</hi> What neceſſity hath <hi>England</hi> more then <hi>Holland</hi> of a King? doe all <hi>goe by the eares there?</hi> What approved Author blames them, or their Government, more then ſuch as have Kings. Or who blames <hi>Rome,</hi> that changed their Kings into two Conſuls yearly choſen, baniſhing their wicked King <hi>Tar<g ref="char:EOLhyphen"/>quin</hi> for his baſe adultery: and them into tenne chief Govern<g ref="char:EOLhyphen"/>ours, and when they began to tyrannize, depoſing them, and ſetting up two <hi>Conſuls,</hi> and then one <hi>Dictator,</hi> &amp;c. and who blames them for it? The <hi>Senators</hi> wiſdome prevented broyles.</p>
+            <p>
+               <hi>To your laſt,</hi> The time is near when all Tyranny, Oppreſſion, Law-vexations, Ware ſhall all ceaſe. Severall Nations are caſt<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:117476:5"/>
+off cruell yokes. See <hi>Iſa.</hi> 40.14. <hi>Dan.</hi> 2.34, 35.45. <hi>Dan.</hi> 7.26. And who knoweth whether our Army &amp; Senators may begin to make up the breaches of many Generations wherby both we and our Poſterity may bleſſe the Lord for them, <hi>Iſa.</hi> 58.12. However, <hi>Fiat juſtitia, et nobiscum erit Dominus.</hi> Your <hi>bitter<g ref="char:EOLhyphen"/>neſſe</hi> in ſome <hi>expresſions</hi> I paſſe over, and ſhall remain,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 26. 1649. current.</date>
+               </dateline>
+               <signed>Yours, if you are Gods and the Kingdoms,</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>A SECOND QUERE from the <hi>Re<g ref="char:EOLhyphen"/>preſentations</hi> of the judgement of 47. Miniſters in the Province of London, in their Letter to the Generall; delivered <hi>Jan.</hi> 18. 1648.</head>
+            <p>
+               <hi>WHat warrant hath the Army, who in reference to the power of Magiſtracy, are but private perſons, to uſurp an Autho<g ref="char:EOLhyphen"/>rity over the King and Parliament, contrary to our Oaths, our Vow and Covenant, to preſerve the rights of Parliament, and the Kings Majeſties Perſon and Authority, in the preſervation and de<g ref="char:EOLhyphen"/>fence of the true Religion and Liberties of the Kingdome?</hi>
+            </p>
+            <p>For <hi>anſwer</hi> hereunto: As when the chiefe Prieſts, &amp; Scribes and Presbyters, or Elders, put this <hi>Queſtion</hi> to Jeſus, <hi>By what authority doſt thou theſe things? and who gave thee authority to doe theſe things? Jeſus anſwered and ſaid unto them, I alſo will aske you</hi> one queſtion; <hi>anſwer me, and I will tell you by what authority I doe theſe things,</hi> Mar. 11.27. So ſay I herein, I will ask you one or two <hi>Queſtions: what authority</hi> had the high Prieſt <hi>Je<g ref="char:EOLhyphen"/>hoiada</hi> to joyne in a Conſpiracy with Captaines of Hundreds, and to gather <hi>Levites</hi> together, and to order a <hi>third part</hi> here and there, and to make lawes for the Kingdome, when <hi>hee</hi> and <hi>they</hi> in <hi>reference to the power of Magiſtracy, were but private perſons;</hi> that yet they order things, as if they were chief <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> of the Kingdome? And by what law or preſident in all <hi>Iſrael</hi> doe they take upon them to oppoſe and <hi>depoſe,</hi> and <hi>put to death;</hi> the perſon that ſwayed the Scepter (who originally came in by force) what ever <hi>Oaths of Allegiance,</hi> or <hi>Vowes</hi> they had made to keep Allegiance: and though they had been obe<g ref="char:EOLhyphen"/>dient
+<pb n="7" facs="tcp:117476:5"/>
+to that power for ſeverall yeares. The Lord had ſaid of the houſe of <hi>David,</hi> that his ſons ſhould reigne for ever: But where hath he ſaid ſo of the houſe of <hi>Stuarts,</hi> more then of the houſe of King <hi>Harold,</hi> whom <hi>William</hi> the Conquerour by force depoſed, and more then the <hi>Brutans</hi> (now called <hi>Welch</hi>) whom the <hi>Saxons</hi> drove from their rights here. If any have ſuch <hi>rights</hi> to the Kingdome, it is in ſome of thoſe <hi>Brutans,</hi> if <hi>reign<g ref="char:EOLhyphen"/>ing,</hi> more then <hi>Prieſts office muſt be by ſuccesſion.</hi>
+            </p>
+            <p>Secondly, The <hi>REPRESENTATION of the gene<g ref="char:EOLhyphen"/>rall Aſſembly of the Kirke of Scotland</hi> (printed for <hi>Richard Boſt<g ref="char:EOLhyphen"/>ocke,</hi> July 5. 1645.) in the Name of the whole Nationall Kirk, expreſly <hi>charged the K. with the guilt of the ſhedding of the blood of many thouſands</hi> (to uſe their words) <hi>of your Majeſties beſt Sub<g ref="char:EOLhyphen"/>jests, and permitting Maſſe and other Idolatry in your owne Fa<g ref="char:EOLhyphen"/>milie, &amp;c.</hi> And you kow the Scripture ſaith, <hi>yee ſhall take no ſatisfaction for the life of a Murtherer which is guilty of death, but he ſhall be ſurely put to death,</hi> Numb. 35.31. The Land cannot be cleanſed of the blood that is ſhed therein, but by the blood of him that ſhed it. Now when <hi>Jehoiada,</hi> and thoſe private perſons, with reſpect to the power of Magiſtracy, had cauſed the murtherer that ſwayed the Scepter to be put to death; then the Lord ſhewed his approbation in giving the City reſt and quiet thereupon, 2 <hi>Chron.</hi> 23.1.15.21.</p>
+            <p>The ſecond Quere is therefore: How is it, if ye be Embaſſa<g ref="char:EOLhyphen"/>dors of Chriſt, as you ſay, that you lift up your voyces againſt the Army, that would not have the guilt of blood to lye upon this Kingdome; and have done in ſome reſpect like <hi>Iehoiada,</hi> upon an urgent occaſion, though theſe ſeeme to have more au<g ref="char:EOLhyphen"/>thority, being cloathed with the authority of the Kingdome, from the high Court, then more pure, to fight for the Privi<g ref="char:EOLhyphen"/>ledges of Parliament and liberty of the people againſt all Op<g ref="char:EOLhyphen"/>poſers in the Kingdome, and the Kings perſon no further, which he hath violated, as the Scottiſh Kirk charge him, and you know (and there were oppoſers thereof in thoſe ſo betru<g ref="char:EOLhyphen"/>ſted in Parliament, which was the moſt unſufferable of all.) And yet that you lift not up your voyce againſt the Parliam<g ref="char:EOLhyphen"/>ent, when they were like by corrupt ones ſwayings) there to conclude a Treaty, without ſatisfying juſtice for the blood of
+<pb n="8" facs="tcp:117476:6"/>
+many thouſands that one perſon is guilty of, and not exempt by Gods word from juſtice? Would you have the Land defi<g ref="char:EOLhyphen"/>led with bloud, and Gods wrath upon the Land, rather then to have juſtice done upon that one perſon? Are you not parti<g ref="char:EOLhyphen"/>all in juſtice? Is it for no private intereſt? Is it not becauſe ſome of you feare the loſſe of your Tithes, that ſome of you have drawn on ſome others to ſubſcribe? And did the Embaſſadors of Chriſt ever exact, or take Tithe, as you read of? Were any ordinary Miniſters to receive Tithe, but only the legall Mini<g ref="char:EOLhyphen"/>ſters, that were alſo bound to pay a Tithe thereof for a heave-offering to the high Prieſt, and the people muſt eate of the Tithe before the Lord, <hi>Numb.</hi> 18.26.28. <hi>Deut.</hi> 14.22, 23. What God hath joyned, why doe you ſever? or what God hath e<g ref="char:EOLhyphen"/>qually anulled, why will you uphold any part thereof more then other, any of you? And why is not your conteſt as much againſt this courſe, all of you, but only for private intereſts?</p>
+            <p>Have you not read what <hi>David</hi> did warrantably in caſe of private extreamity, and thoſe that were with him, which was not lawfull for him or them in an ordinary caſe to have done, <hi>Mat.</hi> 12.3, 4. And doth not Jeſus Chriſt rehearſe this, and is it not written for our inſtruction? what warrantably may be done in caſe of private, much more publique extreamity, by perſons impowered for publique good, may be done warran<g ref="char:EOLhyphen"/>tably I ſay for that end, what ordinarily would be unlawfull.</p>
+            <p>By what authority did many perſons high and low in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> raiſe Armes againſt the authority of their late Parliament, 1648. or againſt thoſe Forces that were raiſed by the authori<g ref="char:EOLhyphen"/>ty of that Parliament, that had broke their Covenant, in in<g ref="char:EOLhyphen"/>vading <hi>England,</hi> and did ſeeke the ruine of all that oppoſed their proceedings? what preſident or law had they to take up armes againſt them? Or to make lawes of themſelves before a lawfull Parliament, and contrary to the laſt Parliament, and to the declared priviledges and liberties of the Subjects, That none ſhould be choſen to be of the next Parliament, nor be E<g ref="char:EOLhyphen"/>lectors of them, but that were ſo and ſo qualified? was <hi>ſalue populi ſuprema lex,</hi> the ſafety of the people, the ſupreame law, a warrant for them alone, and for no others? doe you blame o<g ref="char:EOLhyphen"/>thers for the like courſe, and condemn them? Are you not then
+<pb n="9" facs="tcp:117476:6"/>
+partiall, and walke as men, not as Chriſtians?</p>
+            <p>Whether is it not to be lamented, that many perſons that have been in high eſteeme, when they preach'd the Goſpell of Faith and love, ſhould come to have a beam in their own eye, and yet be inſenſible thereof, and then be lifting up the voice, and crying aloud againſt their Brethren, becauſe a mote (if ſo much as that) is in their brethrens eye. In the feare of God conſider whether it be not thus with any of you? Have none of you blaſphemed and railed againſt thoſe that were in the higheſt Court of the Kingdome? Have none of you beene par<g ref="char:EOLhyphen"/>takers of the late <hi>Scottiſh</hi> invaſion againſt the authority and good of the Kingdome? Have not ſome of you of the Aſſem<g ref="char:EOLhyphen"/>bly acted there directly contrary to the Commiſſion by which you ſate there, <hi>viz.</hi> Requiring that you ſhould act nothing there but according to their appointment? Have not ſome of you publiquely conteſted againſt the Parliament, of whom you deſired to have great power in the Kingdome, becauſe they yeelded not to the giving of you an unlimited power in almoſt ten thouſand Courts of Judicature in the Kingdome, as that forced the Parliament to complain, <hi>April</hi> 17. 1646. before you would yeeld to ſet upon the Church-governments Reformati<g ref="char:EOLhyphen"/>on, that you had power to doe? And this your conteſt (if not contempt) you publiſhed to the world; and all this, it's feared, out of ſelfe-love, or ſelfe-ends, ſeeing and corrupting your judgements.</p>
+            <p>And now before you have publiquely recanted for this, but the root of it abiding in you, to heare you crying out againſt others for wronging authority, becauſe in ſuch an extreamity, and for ſuch good ends, they have done ſomething like the act of <hi>Jehoiada</hi> (that famous excellent act) in the behalfe of the Kingdome. Conſider what is ſaid, and the Lord give both to you and to us more underſtanding in all things, <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
